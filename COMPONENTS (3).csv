@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"UMain, UGPS",2," Arduino Uno R3"
+"U2, U3",2," LCD 16 x 2"
+"R1",1,"220 Ω Resistor"
+"U4",1," Temperature Sensor [TMP36]"
+"S1",1," Pushbutton"
